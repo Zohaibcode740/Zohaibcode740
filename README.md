@@ -1,4 +1,4 @@
-![logo](https://github.com/ZohaiAli/ZohaiAli/blob/main/%40Syed%20Zohaib%20ALi.png)
+![logo](https://github.com/Zohaibcode740/Zohaibcode740/blob/main/%40Syed%20Zohaib%20ALi.png)
 <h1 align="center">Hi 👋, I'm Syed Zohaib Ali</h1>
 <h3 align="center">A passionate .NET CORE developer from Pakistan</h3>
 
